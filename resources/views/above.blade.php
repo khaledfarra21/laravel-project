@@ -14,6 +14,6 @@
 
     <h1>Hello world,<?php echo $name; ?></h1>
 
-</body> 11
+</body>
 
 </html>
